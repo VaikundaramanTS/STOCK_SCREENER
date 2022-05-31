@@ -1,0 +1,5 @@
+flask
+pandas
+pandas_datareader
+yfinance
+matplotlib

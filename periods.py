@@ -1,0 +1,1 @@
+periods = {'1M': '1-month', '6M': '6-months', '1yr': '1-year', '5yr': '5-years', 'YTD': 'YTD', 'MAX': 'MAX'}
